@@ -32,7 +32,7 @@ header {
 body {
     font-family: 'Poppins', serif;
     background-color: #f1f1f1;
-    background-image: url('../images/concrete_seamless.png');
+    background-image: url('images/concrete_seamless.png');
 }
 
 .nav_links a:visited {
